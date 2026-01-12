@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d17fe3cb831232107f4487573cda1e53" label="cicdDemo" max_length="40" name="x_cdltd_cicd_demoa_cicddemo" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Test1" max_length="40" name="test1" type="string"/>
+    </element>
+</database>
